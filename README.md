@@ -1,3 +1,9 @@
+# My project Preview
+![2024-08-06 (5)](https://github.com/user-attachments/assets/3db53077-ffc2-4de9-a21b-f4c1857382da)
+![2024-08-06 (8)](https://github.com/user-attachments/assets/1cd24e98-0ae1-423c-8c82-acd3735e6afd)
+![2024-08-06 (7)](https://github.com/user-attachments/assets/39a4b7ef-4fe6-4d55-91ce-9b383af26c09)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
